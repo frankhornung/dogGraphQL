@@ -1,4 +1,4 @@
-package com.udacity.DogGraphQL.dogGraphQL;
+package com.udacity.DogGraphQL;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
